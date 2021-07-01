@@ -1,0 +1,1183 @@
+[
+  {
+    "quizId": 1,
+    "quiz_name": "Aks Deneme 1",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 2,
+    "quiz_name": "Aks Deneme 2",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 3,
+    "quiz_name": "Aks Deneme 3",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 4,
+    "quiz_name": "Aks Deneme 4",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 5,
+    "quiz_name": "Aks Deneme 5",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 6,
+    "quiz_name": "Aks Deneme 6",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 7,
+    "quiz_name": "Aks Deneme 7",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 8,
+    "quiz_name": "Aks Deneme 8",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 9,
+    "quiz_name": "Aks Deneme 9",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  },{
+    "quizId": 10,
+    "quiz_name": "Aks Deneme 10",
+    "qestionClobDTO": {
+      "qestionDTOList": [
+        {
+          "questionId": 1,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Kurum ve kuruluşlar çalıştırdıkları personele ait kadrolarda yüzde kaç oranında engelli çalıştırmak zorundadır?",
+          "choice_a": "2",
+          "choice_b": "3",
+          "choice_c": "4",
+          "choice_d": "5",
+          "choice_e": "10",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 2,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre; Memura, eşinin doğum yapması halinde, isteği üzerine kaç gün babalık izni verilir?",
+          "choice_a": "3",
+          "choice_b": "5",
+          "choice_c": "7",
+          "choice_d": "10",
+          "choice_e": "15",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 3,
+          "questionText": "657 sayılı Devlet Memurları Kanun’una göre; 'Eşlerinin, reşit olmayan veya mahcur olan çocuklarının kazanç getiren sürekli faaliyetlerini belirlenen sürede kurumuna bildirmemek' fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 4,
+          "questionText": "“Kanunlarda yazılı haller dışında Devlet memurunun memurluğuna son verilmez, aylık ve başka hakları elinden alınamaz.“ hükmü 657 sayılı Devlet Memurları Kanunu’na göre memurların hangi hakkı kapsamındadır?",
+          "choice_a": "Müracaat, şikayet ve dava açma",
+          "choice_b": "Çekilme",
+          "choice_c": "Kovuşturma ve yargılama",
+          "choice_d": "Özlük",
+          "choice_e": "Güvenlik",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 5,
+          "questionText": " 657 sayılı Devlet Memurları Kanun’una göre, memurların başarı, yeterlik ve ehliyetlerinin tespitinde, kademe ilerlemelerinde, derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin kesilmesinde, hizmet gerekleri yanında aşağıdakilerden hangisi göz önünde bulundurulur?",
+          "choice_a": "Özlük Dosyası",
+          "choice_b": "Aylıkla Ödülleri",
+          "choice_c": "Sicil Raporları",
+          "choice_d": "Teşekkür ve Takdir Belgeleri",
+          "choice_e": "Denetim Raporları",
+          "correctAnswer": "a",
+          "active": true
+        },
+        {
+          "questionId": 6,
+          "questionText": " I- Yetki almadan gizli bilgileri açıklamak \n II- Siyasi partiye girmek \n III- Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar veya zararını hedef tutan davranışlarda bulunmak \n 657 sayılı Devlet Memurları Kanunu’na göre; yukarıdaki fiillerden hangisi veya hangileri Devlet memurluğundan çıkarılma cezasını gerektirir?",
+          "choice_a": "I ve II",
+          "choice_b": "I ve III",
+          "choice_c": "II ve III",
+          "choice_d": "I, II ve III",
+          "choice_e": "Yalnız II",
+          "correctAnswer": "b",
+          "active": true
+        },
+        {
+          "questionId": 7,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdaki kurumların hangisinde bir mali yıl içinde ödüllendirileceklerin sayısı, kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olabilir?",
+          "choice_a": "Adalet Bakanlığı",
+          "choice_b": "Millî Eğitim Bakanlığı",
+          "choice_c": "Aile ve Sosyal Politikalar Bakanlığı",
+          "choice_d": "Enerji ve Tabii Kaynaklar Bakanlığı",
+          "choice_e": "Kültür Bakanlığı",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 8,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre aşağıdakilerden hangisi Devlet memurluğuna alınacaklarda aranan genel şartlardan biri değildir?",
+          "choice_a": "Türk Vatandaşı olmak,",
+          "choice_b": "Kamu haklarından mahrum bulunmamak,",
+          "choice_c": "Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak.",
+          "choice_d": "Askerlikle ilgisi bulunmamak,",
+          "choice_e": "Kurumların özel kanun veya diğer mevzuatında aranan şartları taşımak.",
+          "correctAnswer": "d",
+          "active": true
+        },
+        {
+          "questionId": 9,
+          "questionText": "657 sayılı Devlet Memurları Kanunu’na göre “Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak.” fiili aşağıdaki disiplin cezalarından hangisini gerektirir?",
+          "choice_a": "Kınama",
+          "choice_b": "Uyarma",
+          "choice_c": "Kademe ilerlemesinin durdurulması",
+          "choice_d": "Aylıktan kesme",
+          "choice_e": "Devlet memurluğundan çıkarma",
+          "correctAnswer": "e",
+          "active": true
+        },
+        {
+          "questionId": 10,
+          "questionText": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun’a göre Kademe ilerlemesinin durdurulması cezası kural olarak hangi organ tarafından verilir?",
+          "choice_a": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra atamaya yetkili amir tarafından",
+          "choice_b": "Atamaya yetkili amirin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_c": "Atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu tarafından",
+          "choice_d": "Disiplin amirinin teklifi üzerine Bakanlık Disiplin Kurulu tarafından",
+          "choice_e": "Bakanlık Disiplin Kurulunun uygunluk kararı alındıktan sonra Yüksek Disiplin Kurulu tarafından",
+          "correctAnswer": "a",
+          "active": true
+        }
+      ]
+    },
+    "comment": "Aks Deneme Seti"
+  }
+]
